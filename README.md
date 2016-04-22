@@ -1,4 +1,5 @@
 # Stolen Bike Index
+#### March 2016
 ##### By Jeff Seymour  
 
 ### Description
@@ -13,7 +14,7 @@ JavaScript
 jQuery  
 Node.js  
 Gulp  
-Browserify
+Browserify  
 Bower  
 
 ### Installation
